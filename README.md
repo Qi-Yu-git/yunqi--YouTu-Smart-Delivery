@@ -91,9 +91,11 @@
 
 安全可靠运行：避障成功率 100%，具备过载保护、碰撞缓冲设计，支持 4 小时连续工作，满足规模化配送需求。
 
+[版本同步与回滚.docx](https://github.com/user-attachments/files/23616325/default.docx)
 
-[环境搭建文档.docx](https://github.com/user-attachments/files/23282734/default.docx)
+[环境搭建文档.docx](https://github.com/user-attachments/files/23616326/default.docx)
 
-[在Anaconda中配置的库.txt](https://github.com/user-attachments/files/23282735/Anaconda.txt)
+[在Anaconda中配置的库.txt](https://github.com/user-attachments/files/23616327/Anaconda.txt)
 
-[版本同步与回滚.docx](https://github.com/user-attachments/files/23560417/default.docx)
+[优途智送图片.zip](https://github.com/user-attachments/files/23616328/default.zip)
+
